@@ -1,7 +1,7 @@
 <img align="right" src="docs/img/gemstone-wide-600.png" alt="gemstone logo">
 
 # shared-content
-### GPA Gemstone Shared Content
+### Gemstone Shared Library Content
 
 When updated, all content in this repo, except this README, is automatically synchronized into all Gemstone Library projects via nightly build scripts.
 
