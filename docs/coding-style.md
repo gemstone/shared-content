@@ -15,7 +15,7 @@ The general rule we follow is "_use Visual Studio defaults_".
 7. Avoid more than one empty line at any time. For example, do not have two blank lines between members of a type.
 8. Avoid spurious free spaces. For example avoid `if (someVar == 0)...`, where the dots mark the spurious free spaces. Consider enabling "View White Space (Ctrl+E, S)" if using Visual Studio to aid detection.
 9. If a file happens to differ in style from these guidelines (e.g. private members are named `_member` rather than `m_member`), the existing style in that file takes precedence.
-10. Alway use actual type names, we only use `var` when it's required because the actual type is unknown or is run-time deffered.
+10. Alway use actual type names, we only use `var` when it's required because the actual type is unknown or is run-time deferred.
 11. We use language keywords instead of BCL types (e.g. `int, string, float` instead of `Int32, String, Single`, etc) for both type references as well as method calls (e.g. `int.Parse` instead of `Int32.Parse`).
 12. We use PascalCasing to name all our constant local variables and fields. The only exception is for interop code where the constant value should exactly match the name and value of the code you are calling via interop.
 13. We use ```nameof(...)``` instead of ```"..."``` whenever possible and relevant.
