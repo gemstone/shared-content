@@ -59,6 +59,19 @@
             <ddue:para>
               <ddue:legacyBold>
                 <ddue:externalLink>
+                  <ddue:linkText>Gemstone.Communication</ddue:linkText>
+                  <ddue:linkAlternateText>Gemstone.Communication</ddue:linkAlternateText>
+                  <ddue:linkUri>https://gemstone.github.io/communication/</ddue:linkUri>
+                  <ddue:linkTarget>_blank</ddue:linkTarget>
+                </ddue:externalLink>               
+              </ddue:legacyBold>
+              organizes all Gemstone functionality related to communication functionality, e.g., sockets and serial ports.
+            </ddue:para>
+          </ddue:listItem>
+          <ddue:listItem>
+            <ddue:para>
+              <ddue:legacyBold>
+                <ddue:externalLink>
                   <ddue:linkText>Gemstone.Numeric</ddue:linkText>
                   <ddue:linkAlternateText>Gemstone.Numeric</ddue:linkAlternateText>
                   <ddue:linkUri>https://gemstone.github.io/numeric/</ddue:linkUri>
