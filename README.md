@@ -1,5 +1,4 @@
 <img align="right" src="docs/img/gemstone-wide-600.png" alt="gemstone logo">
-<br/><br/><br/><br/>
 
 # shared-content
 ### Gemstone Shared Library Content
@@ -11,7 +10,7 @@ Be careful to only add content that is applicable to all Gemstone Library projec
 Files can be templated with the following replacement tokens:
 
 | Token              | Replacement                                                      |
-| ------------------ | ---------------------------------------------------------------- |
+|:------------------:|:---------------------------------------------------------------- |
 | `{sc:repo-name}`   | Target repository name, kebab-case, e.g, `gemtem`                |
 | `{sc:ProjectName}` | Target project name, PascalCase, e.g., `GemTem`                  |
 | `{sc:yyyy}`        | Four digit current year, e.g., `2000` from `2000-01-18 15:22:05` |
