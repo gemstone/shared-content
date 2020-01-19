@@ -1,4 +1,5 @@
 <img align="right" src="docs/img/gemstone-wide-600.png" alt="gemstone logo">
+<br/><br/>
 
 # shared-content
 ### Gemstone Shared Library Content
