@@ -4,7 +4,7 @@
 # shared-content
 ### Gemstone Shared Library Content
 
-When updated, all content in this repo (except this README) is automatically synchronized into all Gemstone Library projects (excluding [root-dev](https://github.com/gemstone/root-dev)) via nightly build scripts.
+When updated, all content in this repo (except this README) is automatically synchronized into all Gemstone Library projects (excluding [root-dev](https://github.com/gemstone/root-dev)) via nightly [build script](https://github.com/gemstone/root-dev/blob/master/build/scripts/build-gemstone.ps1).
 
 Be careful to only add content that is applicable to all Gemstone Library projects.
 
