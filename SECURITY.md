@@ -28,6 +28,6 @@ We prefer all communications to be in English.
 
 ## Policy
 
-Grid Protection Alliance follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd).
+Grid Protection Alliance follows the principle of [Coordinated Vulnerability Disclosure](https://gridprotectionalliance.org/cvd.asp).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
