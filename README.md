@@ -1,5 +1,5 @@
 <img align="right" src="docs/img/gemstone-wide-600.png" alt="gemstone logo">
-<br/><br/>
+<br/><br/><br/>
 
 # shared-content
 ### Gemstone Shared Library Content
@@ -12,8 +12,8 @@ Files can be templated with the following replacement tokens:
 
 | Token              | Replacement                                                      |
 |:------------------:|:---------------------------------------------------------------- |
-| `{sc:repo-name}`   | Target repository name, kebab-case, e.g, `gemtem`                |
-| `{sc:ProjectName}` | Target project name, PascalCase, e.g., `GemTem`                  |
+| `{sc:repo-name}`   | Target repository name, kebab-case, e.g, `web-sockets`           |
+| `{sc:ProjectName}` | Target project name, PascalCase, e.g., `WebSockets`              |
 | `{sc:year}`        | Four digit current year, e.g., `2000` from `2000-01-18 15:22:05` |
 | `{sc:month}`       | Two digit current month, e.g., `01` from `2000-01-18 15:22:05`   |
 | `{sc:day}`         | Two digit current day, e.g., `18` from `2000-01-18 15:22:05`     |
